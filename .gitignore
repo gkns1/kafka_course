@@ -1,0 +1,7 @@
+kafka-consumer-elasticsearch/src/main/resources/config.properties
+kafka-producer-twitter/src/main/resources/config.properties
+kafka-consumer-elasticsearch/target/
+kafka-producer-twitter/target/
+# Project exclude paths
+/out/
+/target/
